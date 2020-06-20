@@ -1,1 +1,1 @@
-! [Github] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcoding-in-simple-english%2Fhow-to-set-up-and-maintain-a-github-repository-614ec4a1e387&psig=AOvVaw3yQIk317EagWL6tvGW8aRz&ust=1592722767534000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiimYbpj-oCFQAAAAAdAAAAABAD)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
